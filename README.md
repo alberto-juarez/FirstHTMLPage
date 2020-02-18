@@ -1,5 +1,5 @@
 <h1>
-    This repository's purpose is to learn how to setup a Github repo
+    This repository's purpose is to learn how to setup a Github repo!!
 </h1>
 
 <ol>
